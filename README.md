@@ -1,0 +1,2 @@
+# kaggle-store_item_demand_forecasting_challenge
+store_item_demand_forecasting_challenge 에 대한 EDA와 모델생성
